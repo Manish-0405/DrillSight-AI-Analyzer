@@ -1,0 +1,103 @@
+# --- Python bytecode & cache ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Virtual environments ---
+venv/
+.venv/
+env/
+.envs/
+
+# --- Environment & secrets ---
+.env
+.env.*
+*.env
+*.secret
+secrets.json
+
+# --- Build, distribution & packaging ---
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# --- Test & coverage artifacts ---
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.mypy_cache/
+.pytype/
+
+# --- Notebooks & checkpoints ---
+.ipynb_checkpoints/
+
+# --- Logs ---
+logs/
+*.log
+
+# --- Local databases & caches ---
+# Keep all local DBs out of the public repo (contains drill session data)
+*.db
+*.sqlite3
+
+# --- ML models & large artifacts ---
+models/
+checkpoints/
+artifacts/
+*.pth
+*.pt
+*.h5
+*.ckpt
+*.onnx
+*.pb
+*.tflite
+
+# --- Media / capture files (keep raw data private) ---
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.bag
+*.wav
+*.mp3
+*.flac
+*.gif
+
+# Allow a single documentation diagram image
+!docs/architecture_diag.png
+
+# --- OS / Editor junk ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Node / frontend (if used later) ---
+node_modules/
+.npm/
+.yarn/
+
+# --- Docker & container artifacts ---
+*.pid
+
+# --- Proprietary local scripts (not for public showcase) ---
+analyser.py
+app.py
+calibration_angles.py
+create_db.py
+create_showcase_video.py
+gui_launcher.py
+migrate_data.py
+record_bag.py
+Skeleton_mirror.py
+tempCodeRunnerFile.py
+
+# --- Private data & templates (keep novel logic / data local) ---
+drill_modules/
+Documents/
+templates/

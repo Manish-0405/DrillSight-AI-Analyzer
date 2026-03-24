@@ -1,0 +1,29 @@
+version: "3.9"
+
+# DrillSight Technical Showcase – API + Redis
+# This compose file wires a FastAPI app with a Redis cache to
+# demonstrate production-friendly infrastructure without exposing core ML code.
+
+services:
+  api:
+    build: .
+    container_name: drillsight-api
+    command: uvicorn app.fastapi_app:app --host 0.0.0.0 --port 8000 --reload
+    ports:
+      - "8000:8000"
+    environment:
+      - DRILLSIGHT_ENV=local
+      - REDIS_URL=redis://redis:6379/0
+    depends_on:
+      - redis
+
+  redis:
+    image: redis:7-alpine
+    container_name: drillsight-redis
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis-data:/data
+
+volumes:
+  redis-data:
