@@ -211,15 +211,9 @@ Lead AI & Systems Engineer: Architected the core CV pipeline using MediaPipe and
 
 ## ✨ Contributors
 
-<a href="https://github.com/Manish-0405">
-  <img src="https://github.com/Manish-0405.png?size=100" width="100px;" alt="Manish Kumar Choudhary"/>
-  <br /><sub><b>Manish Kumar Choudhary</b></sub>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/JaishreeGandhi">
-  <img src="https://github.com/JaishreeGandhi.png?size=100" width="100px;" alt="Jaishree Gandhi"/>
-  <br /><sub><b>Jaishree Gandhi</b></sub>
-</a>
+| <a href="https://github.com/Manish-0405"><img src="https://github.com/Manish-0405.png?size=100" width="100px;" alt="Manish Kumar Choudhary"/></a> | <a href="https://github.com/JaishreeGandhi"><img src="https://github.com/JaishreeGandhi.png?size=100" width="100px;" alt="Jaishree Gandhi"/></a> |
+| :---: | :---: |
+| [**Manish Kumar Choudhary**](https://github.com/Manish-0405) | [**Jaishree Gandhi**](https://github.com/JaishreeGandhi) |
 
 Contributions of any kind are welcome!
 
