@@ -1,8 +1,6 @@
-# DrillSight – Technical Showcase (Centific Hackathon)
+# DrillSight – Technical Showcase
 
 DrillSight is a computer-vision powered drill analyzer for NCC-style marching drills and salutes. This repository is a **technical showcase** of the production architecture and MLOps mindset behind the project, while intentionally keeping the core ML models and proprietary analysis logic private.
-
-> **Context:** Built for the Centific Hackathon (All-India Rank 4), DrillSight analyzes cadet drill videos and delivers objective, frame-level feedback on posture, timing, and synchronization.
 
 ---
 
