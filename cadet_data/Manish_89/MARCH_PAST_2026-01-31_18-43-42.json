@@ -1,0 +1,192 @@
+{
+    "cadet_id": "89",
+    "drill_name": "MARCH_PAST (2D)",
+    "timestamp": "2026-01-31_18-43-42",
+    "final_score": "93.42",
+    "breakdown": [
+        {
+            "phase": "Arm Swing",
+            "parameter": "Left Swing 1",
+            "score": "93.3",
+            "measured": "110\u00b0",
+            "target": "90\u00b0"
+        },
+        {
+            "phase": "Arm Swing",
+            "parameter": "Left Swing 2",
+            "score": "99.0",
+            "measured": "93\u00b0",
+            "target": "90\u00b0"
+        },
+        {
+            "phase": "Arm Swing",
+            "parameter": "Left Swing 3",
+            "score": "84.7",
+            "measured": "135\u00b0",
+            "target": "90\u00b0"
+        },
+        {
+            "phase": "Arm Swing",
+            "parameter": "Left Swing 4",
+            "score": "96.0",
+            "measured": "77\u00b0",
+            "target": "90\u00b0"
+        },
+        {
+            "phase": "Arm Swing",
+            "parameter": "Left Swing 5",
+            "score": "86.5",
+            "measured": "130\u00b0",
+            "target": "90\u00b0"
+        },
+        {
+            "phase": "Arm Swing",
+            "parameter": "Left Swing 6",
+            "score": "90.3",
+            "measured": "61\u00b0",
+            "target": "90\u00b0"
+        },
+        {
+            "phase": "Arm Swing",
+            "parameter": "Left Swing 7",
+            "score": "88.1",
+            "measured": "125\u00b0",
+            "target": "90\u00b0"
+        },
+        {
+            "phase": "Arm Swing",
+            "parameter": "Left Swing 8",
+            "score": "96.5",
+            "measured": "100\u00b0",
+            "target": "90\u00b0"
+        },
+        {
+            "phase": "Arm Swing",
+            "parameter": "Left Swing 9",
+            "score": "88.6",
+            "measured": "124\u00b0",
+            "target": "90\u00b0"
+        },
+        {
+            "phase": "Arm Swing",
+            "parameter": "Left Swing 10",
+            "score": "97.7",
+            "measured": "83\u00b0",
+            "target": "90\u00b0"
+        },
+        {
+            "phase": "Arm Swing",
+            "parameter": "Left Swing 11",
+            "score": "94.6",
+            "measured": "106\u00b0",
+            "target": "90\u00b0"
+        },
+        {
+            "phase": "Arm Swing",
+            "parameter": "Left Swing 12",
+            "score": "91.3",
+            "measured": "116\u00b0",
+            "target": "90\u00b0"
+        },
+        {
+            "phase": "Arm Swing",
+            "parameter": "Left Swing 13",
+            "score": "93.5",
+            "measured": "109\u00b0",
+            "target": "90\u00b0"
+        },
+        {
+            "phase": "Arm Swing",
+            "parameter": "Right Swing 1",
+            "score": "99.1",
+            "measured": "92\u00b0",
+            "target": "90\u00b0"
+        },
+        {
+            "phase": "Arm Swing",
+            "parameter": "Right Swing 2",
+            "score": "93.0",
+            "measured": "111\u00b0",
+            "target": "90\u00b0"
+        },
+        {
+            "phase": "Arm Swing",
+            "parameter": "Right Swing 3",
+            "score": "98.1",
+            "measured": "95\u00b0",
+            "target": "90\u00b0"
+        },
+        {
+            "phase": "Arm Swing",
+            "parameter": "Right Swing 4",
+            "score": "96.7",
+            "measured": "99\u00b0",
+            "target": "90\u00b0"
+        },
+        {
+            "phase": "Arm Swing",
+            "parameter": "Right Swing 5",
+            "score": "97.1",
+            "measured": "81\u00b0",
+            "target": "90\u00b0"
+        },
+        {
+            "phase": "Arm Swing",
+            "parameter": "Right Swing 6",
+            "score": "96.8",
+            "measured": "80\u00b0",
+            "target": "90\u00b0"
+        },
+        {
+            "phase": "Arm Swing",
+            "parameter": "Right Swing 7",
+            "score": "95.8",
+            "measured": "102\u00b0",
+            "target": "90\u00b0"
+        },
+        {
+            "phase": "Arm Swing",
+            "parameter": "Right Swing 8",
+            "score": "96.8",
+            "measured": "99\u00b0",
+            "target": "90\u00b0"
+        },
+        {
+            "phase": "Arm Swing",
+            "parameter": "Right Swing 9",
+            "score": "91.9",
+            "measured": "114\u00b0",
+            "target": "90\u00b0"
+        },
+        {
+            "phase": "Arm Swing",
+            "parameter": "Right Swing 10",
+            "score": "96.4",
+            "measured": "100\u00b0",
+            "target": "90\u00b0"
+        },
+        {
+            "phase": "Arm Swing",
+            "parameter": "Right Swing 11",
+            "score": "96.7",
+            "measured": "100\u00b0",
+            "target": "90\u00b0"
+        },
+        {
+            "phase": "Arm Swing",
+            "parameter": "Right Swing 12",
+            "score": "99.3",
+            "measured": "87\u00b0",
+            "target": "90\u00b0"
+        },
+        {
+            "phase": "Arm Swing",
+            "parameter": "Right Swing 13",
+            "score": "99.9",
+            "measured": "90\u00b0",
+            "target": "90\u00b0"
+        }
+    ],
+    "recommendations": [],
+    "graph_path": "cadet_data\\Manish_89\\MARCH_PAST_2026-01-31_18-43-42.png"
+}

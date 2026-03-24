@@ -1,0 +1,34 @@
+{
+    "cadet_id": "58",
+    "drill_name": "SALUTE (2D)",
+    "timestamp": "2025-11-12_19-06-16",
+    "final_score": "76.35",
+    "breakdown": [
+        {
+            "phase": "Peak of Salute",
+            "parameter": "Right Elbow",
+            "score": "97.5",
+            "measured": "38\u00b0",
+            "target": "40\u00b0"
+        },
+        {
+            "phase": "Peak of Salute",
+            "parameter": "Left Elbow",
+            "score": "74.4",
+            "measured": "159\u00b0",
+            "target": "175\u00b0"
+        },
+        {
+            "phase": "Peak of Salute",
+            "parameter": "Right Shoulder",
+            "score": "57.2",
+            "measured": "122\u00b0",
+            "target": "90\u00b0"
+        }
+    ],
+    "recommendations": [
+        "Adjust your Left Elbow. Measured: 159\u00b0, Target: 175\u00b0.",
+        "Adjust your Right Shoulder. Measured: 122\u00b0, Target: 90\u00b0."
+    ],
+    "graph_path": "cadet_data\\Saurabh_58\\SALUTE_2025-11-12_19-06-16.png"
+}
